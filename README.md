@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/paterbytes/gui-python">
-    <img src="images/expected-result.png" alt="Logo" width="240" height="160">
+    <img src="Images/expected-result.png" alt="Logo" width="240" height="160">
   </a>
 
 <h3 align="center">GUI-Python</h3>
@@ -217,5 +217,5 @@ Project Link: [https://github.com/paterbytes/gui-python](https://github.com/pate
 [license-url]: https://github.com/paterbytes/gui-python/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/paterninajose
-[product-screenshot]: images/expected-result.png
+[product-screenshot]: Images/expected-result.png
 [01.Window]:https://github.com/paterbytes/gui-python/blob/main/01.Window
