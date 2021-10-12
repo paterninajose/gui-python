@@ -1,6 +1,6 @@
 # Create a simple window with Python and Qt5 
 import sys
-from PyQt5.QtWidgets import QMainWindow as QMainW, QApplication as QApp
+from PyQt6.QtWidgets import QMainWindow as QMainW, QApplication as QApp
 
 class MainWindow(QMainW):
     def __init__(self, *args, **kwargs):
@@ -10,4 +10,4 @@ class MainWindow(QMainW):
 app = QApp(sys.argv)
 window = MainWindow()
 
-app.exec_()
+app.exec()

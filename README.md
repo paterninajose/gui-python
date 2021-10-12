@@ -90,7 +90,7 @@ To get a local copy up and running follow these simple example steps.
 
 Next steps will help you to configure your system be able to run, test and create executable for Python software.
 
-## Python 3.8.2
+## Python 3.10.0
 Python is an interpreted, interactive, object-oriented programming language.
   * Go to [Python Download]
   * Scroll to **Files** and over the Python installer.
@@ -104,7 +104,7 @@ Python is an interpreted, interactive, object-oriented programming language.
    ```
 4. If the installation was successful you will see this:
    ```sh
-   Python 3.8.2
+   Python 3.10.0
    ```
 
 
@@ -114,19 +114,19 @@ PyQt is a set of Python bindings for The Qt Company's Qt application framework a
 It has a commercial version too: [Qt commercial version]
 
 ### Installation
-Install PyQt5 from **pip**, open the command line (CMD) and execute:
+Install PyQt6 from **pip**, open the command line (CMD) and execute:
   ```sh
-  pip install PyQt5
+  pip install PyQt6
   ```
 
 
-## PyQt-WebEngine 5 module
-PyQt-WebEngine is a set of Python bindings for The Qt Company's Qt WebEngine libraries. It is available for PyQt6 and PyQt5.
+## PyQt6-WebEngine module
+PyQt-WebEngine is a set of Python bindings for The Qt Company's Qt WebEngine libraries. It is available for PyQt6 and PyQt6.
 
 ### Installation
-Install PyQt-WebEngine from **pip**, open the command line (CMD) and execute:
+Install PyQt6-WebEngine from **pip**, open the command line (CMD) and execute:
   ```sh
-  pip install PyQtWebEngine
+  pip install PyQt6-WebEngine
   ```
 
 ## Eel library
@@ -140,7 +140,7 @@ Install Eel from **pip**, open the command line (CMD) and execute:
 
 **Note:** Another way to install all with **pip** is:
 ```sh
-pip install PyQt PyQtWebEngine Eel
+pip install PyQt6 PyQt6-WebEngine Eel
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -204,7 +204,7 @@ Project Link: [https://github.com/paterbytes/gui-python](https://github.com/pate
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Qt commercial version]:https://www.riverbankcomputing.com/commercial/license-faq
-[Python Download]:https://www.python.org/downloads/release/python-382/
+[Python Download]:https://www.python.org/downloads/
 [contributors-shield]: https://img.shields.io/github/contributors/paterbytes/gui-python.svg?style=for-the-badge
 [contributors-url]: https://github.com/paterbytes/gui-python/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/paterbytes/gui-python.svg?style=for-the-badge
