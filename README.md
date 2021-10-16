@@ -22,9 +22,7 @@
     Executable file rendering html local files and browsing the web.
     <br />
     <br />
-    ·
-    <a href="https://github.com/paterbytes/gui-python/issues">Report Bug</a>
-    ·
+    <a href="https://github.com/paterbytes/gui-python/issues">Report Bug 🐞</a>
   </p>
 </div>
 
@@ -32,7 +30,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary> 📑 Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -69,7 +67,7 @@ This project aims to create a Web broswer able to load embedded html files (with
 
 
 
-## Built With
+## 🔧 Built With
 |Software| Version | Purpose
 |---	|:---:	|---
 |[Python](https://www.python.org/)|3.8.2| Interpretate and run the scripts
@@ -82,16 +80,16 @@ This project aims to create a Web broswer able to load embedded html files (with
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 🏁 Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Prerequisites
 
 Next steps will help you to configure your system be able to run, test and create executable for Python software.
 
-## Python 3.10.0
+## 🔵 Python 3.10.0
 Python is an interpreted, interactive, object-oriented programming language.
   * Go to [Python Download]
   * Scroll to **Files** and over the Python installer.
@@ -109,7 +107,7 @@ Python is an interpreted, interactive, object-oriented programming language.
    ```
 
 
-## PyQt 6 library
+## 🔵 PyQt 6 library
 PyQt is a set of Python bindings for The Qt Company's Qt application framework and runs on all platforms supported by Qt including Windows, macOS, Linux, iOS and Android.
 
 It has a commercial version too: [Qt commercial version]
@@ -121,7 +119,7 @@ Install PyQt6 from **pip**, open the command line (CMD) and execute:
   ```
 
 
-## PyQt6-WebEngine library
+## 🔵 PyQt6-WebEngine library
 PyQt-WebEngine is a set of Python bindings for The Qt Company's Qt WebEngine libraries. It is available for PyQt6 and PyQt6.
 
 ### Installation
@@ -130,7 +128,7 @@ Install PyQt6-WebEngine from **pip**, open the command line (CMD) and execute:
   pip install PyQt6-WebEngine
   ```
 
-## Eel library
+## 🔵 Eel library
 Eel is a little Python library for making simple Electron-like offline HTML/JS GUI apps, with full access to Python capabilities and libraries.
 
 ### Installation
@@ -148,7 +146,7 @@ pip install PyQt6 PyQt6-WebEngine Eel
 
 
 <!-- ROADMAP -->
-## Roadmap
+## 📍 Roadmap
 
 - [01.Window]
   - [01.Qt-window.py] - Create a simple Qt window
@@ -169,7 +167,7 @@ See the [open issues](https://github.com/paterbytes/gui-python/issues) for a ful
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 🚧 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -187,7 +185,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## 📃 License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -196,7 +194,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## 📇 Contact
 
 Jose Luis Paternina - [PaterBytes](https://github.com/paterbytes) - josepaternina@gmail.com
 
