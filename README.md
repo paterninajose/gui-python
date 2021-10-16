@@ -73,7 +73,8 @@ This project aims to create a Web broswer able to load embedded html files (with
 |Software| Version | Purpose
 |---	|:---:	|---
 |[Python](https://www.python.org/)|3.8.2| Interpretate and run the scripts
-|[Qt](https://www.riverbankcomputing.com/software/pyqt/)|5| Graphics User Interface (GUI)
+|[Qt](https://www.riverbankcomputing.com/software/pyqt/)|6| PyQt is a Python  [binding] of the cross-platform GUI toolkit Qt, implemented as a Python plug-in.
+|[Tkinter](https://www.riverbankcomputing.com/software/pyqt/)|Built in Python| Tkinter is a Python [binding]  to the Tk GUI toolkit
 |[Eel](https://github.com/ChrisKnott/Eel) | |Create excutable (.exe)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -108,7 +109,7 @@ Python is an interpreted, interactive, object-oriented programming language.
    ```
 
 
-## PyQt 5 module
+## PyQt 6 library
 PyQt is a set of Python bindings for The Qt Company's Qt application framework and runs on all platforms supported by Qt including Windows, macOS, Linux, iOS and Android.
 
 It has a commercial version too: [Qt commercial version]
@@ -120,7 +121,7 @@ Install PyQt6 from **pip**, open the command line (CMD) and execute:
   ```
 
 
-## PyQt6-WebEngine module
+## PyQt6-WebEngine library
 PyQt-WebEngine is a set of Python bindings for The Qt Company's Qt WebEngine libraries. It is available for PyQt6 and PyQt6.
 
 ### Installation
@@ -150,10 +151,14 @@ pip install PyQt6 PyQt6-WebEngine Eel
 ## Roadmap
 
 - [01.Window]
-  - **01.Qt-window<span>.py** - Create a simple Qt window
-  - **02.Qt-window<span>.py** - Adding status bar and name
+  - [01.Qt-window.py] - Create a simple Qt window
+  - [02.Qt-window.py] - Adding status bar and name
+  - **03.Qt-window<span>.py** - Adding resizing and icon
+  - **04.Qt-window<span>.py** - Adding navigation bar  
   - **03.Qt-window<span>.py** - Adding resizing and icon
   - **04.Qt-window<span>.py** - Adding navigation bar
+  - [01.Tk-window.py] - Create a simple Tkinter window
+  - [02.Tk-window.py] - Create a simple Tkinter window
   <br/>...
 - XX.Executable - *TODO: Web broswer .exe*
 
@@ -204,6 +209,7 @@ Project Link: [https://github.com/paterbytes/gui-python](https://github.com/pate
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Qt commercial version]:https://www.riverbankcomputing.com/commercial/license-faq
+  
 [Python Download]:https://www.python.org/downloads/
 [contributors-shield]: https://img.shields.io/github/contributors/paterbytes/gui-python.svg?style=for-the-badge
 [contributors-url]: https://github.com/paterbytes/gui-python/graphs/contributors
@@ -218,4 +224,14 @@ Project Link: [https://github.com/paterbytes/gui-python](https://github.com/pate
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/paterninajose
 [product-screenshot]: Images/expected-result.png
+  
 [01.Window]:https://github.com/paterbytes/gui-python/blob/main/01.Window
+ 
+[01.Qt-window.py]:https://github.com/paterbytes/gui-python/blob/main/01.Window/01.Qt-window.py
+[02.Qt-window.py]:https://github.com/paterbytes/gui-python/blob/main/01.Window/02.Qt-window.py
+  
+[01.Tk-window.py]:https://github.com/paterbytes/gui-python/blob/main/01.Window/01.Tk-window.py
+[02.Tk-window.py]:https://github.com/paterbytes/gui-python/blob/main/01.Window/02.Tk-window.py
+
+  
+[binding]:(https://en.wikipedia.org/wiki/Language_binding)
