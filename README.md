@@ -30,7 +30,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary> 📑 Table of Contents</summary>
+  <summary>:bookmark_tabs: Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -42,22 +42,23 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#python-3100">Python 3.10.0</a></li>
+        <li><a href="#pyqt-6-library">PyQt 6 Library</a></li>
+        <li><a href="#pyqt6-webengine-library">PyQt 6 Web Engine Library</a></li>
+        <li><a href="#eel-library">Eel Library</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 <br/>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project <span id="about-the-project"></span>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -67,7 +68,7 @@ This project aims to create a Web broswer able to load embedded html files (with
 
 
 
-## 🔧 Built With
+## :wrench: Built With <span id="built-with"></span>
 |Software| Version | Purpose
 |---	|:---:	|---
 |[Python](https://www.python.org/)|3.8.2| Interpretate and run the scripts
@@ -80,16 +81,16 @@ This project aims to create a Web broswer able to load embedded html files (with
 
 
 <!-- GETTING STARTED -->
-## 🏁 Getting Started
+## :checkered_flag: Getting Started <span id="getting-started"></span>
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-## Prerequisites
+## Prerequisites <span id="prerequisites"></span>
 
 Next steps will help you to configure your system be able to run, test and create executable for Python software.
 
-## 🔵 Python 3.10.0
+## :large_blue_circle: Python 3.10.0 <span id="python-3100"></span>
 Python is an interpreted, interactive, object-oriented programming language.
   * Go to [Python Download]
   * Scroll to **Files** and over the Python installer.
@@ -107,7 +108,7 @@ Python is an interpreted, interactive, object-oriented programming language.
    ```
 
 
-## 🔵 PyQt 6 library
+## :large_blue_circle: PyQt 6 library <span id="pyqt-6-library"></span>
 PyQt is a set of Python bindings for The Qt Company's Qt application framework and runs on all platforms supported by Qt including Windows, macOS, Linux, iOS and Android.
 
 It has a commercial version too: [Qt commercial version]
@@ -119,7 +120,7 @@ Install PyQt6 from **pip**, open the command line (CMD) and execute:
   ```
 
 
-## 🔵 PyQt6-WebEngine library
+## :large_blue_circle: PyQt6-WebEngine library <span id="pyqt6-webengine-library"></span>
 PyQt-WebEngine is a set of Python bindings for The Qt Company's Qt WebEngine libraries. It is available for PyQt6 and PyQt6.
 
 ### Installation
@@ -128,7 +129,7 @@ Install PyQt6-WebEngine from **pip**, open the command line (CMD) and execute:
   pip install PyQt6-WebEngine
   ```
 
-## 🔵 Eel library
+## :large_blue_circle: Eel library <span id="eel-library"></span>
 Eel is a little Python library for making simple Electron-like offline HTML/JS GUI apps, with full access to Python capabilities and libraries.
 
 ### Installation
@@ -146,7 +147,7 @@ pip install PyQt6 PyQt6-WebEngine Eel
 
 
 <!-- ROADMAP -->
-## 📍 Roadmap
+## :round_pushpin: Roadmap <span id="roadmap"></span>
 
 - [01.Window]
   - [01.Qt-window.py] - Create a simple Qt window
@@ -167,7 +168,7 @@ See the [open issues](https://github.com/paterbytes/gui-python/issues) for a ful
 
 
 <!-- CONTRIBUTING -->
-## 🚧 Contributing
+## :construction: Contributing <span id="contributing"></span>
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -185,7 +186,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## 📃 License
+## :scroll: License <span id="license"></span>
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -194,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## 📇 Contact
+## :card_index: Contact <span id="contact"></span>
 
 Jose Luis Paternina - [PaterBytes](https://github.com/paterbytes) - josepaternina@gmail.com
 
