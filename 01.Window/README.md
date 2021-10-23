@@ -71,11 +71,11 @@ This file contains the script to create a simple Tk window
 - [01.Window]
   - [01.Qt-window.py] - Create a simple Qt window
   - [02.Qt-window.py] - Adding status bar and name
-  - **03.Qt-window<span>.py** - Adding resizing and icon *(soon)*
+  - [03.Qt-window.py] - Adding resize and icon 
   - **04.Qt-window<span>.py** - Adding navigation bar *(soon)*
   - [01.Tk-window.py] - Create a simple Tkinter window
   - [02.Tk-window.py] - Adding status bar and name
-  - **03.Tk-window<span>.py** - Adding resizing and icon *(soon)*
+  - [03.Tk-window.py] - Adding resize and icon
   - **04.Tk-window<span>.py** - Adding navigation bar *(soon)*
 
 

@@ -152,12 +152,13 @@ pip install PyQt6 PyQt6-WebEngine Eel
 - [01.Window]
   - [01.Qt-window.py] - Create a simple Qt window
   - [02.Qt-window.py] - Adding status bar and name
-  - **03.Qt-window<span>.py** - Adding resizing and icon
+  - [03.Qt-window.py] - Adding resize and icon
   - **04.Qt-window<span>.py** - Adding navigation bar  
   - **03.Qt-window<span>.py** - Adding resizing and icon
   - **04.Qt-window<span>.py** - Adding navigation bar
   - [01.Tk-window.py] - Create a simple Tkinter window
-  - [02.Tk-window.py] - Create a simple Tkinter window
+  - [02.Tk-window.py] - Adding status bar and name
+  - [03.Tk-window.py] - Adding resize and icon
   <br/>...
 - XX.Executable - *TODO: Web broswer .exe*
 
@@ -175,9 +176,9 @@ Contributions are what make the open source community such an amazing place to l
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
+1. Fork this Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+3. Commit your Changes (`git commit -m 'feat: Add some AmazingFeature'`) please use **ISO [conventional commits]**: **feat** for features, **fix** for bug fixes, **docs** for documentation, **chore** for boring tasks no production code change.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
@@ -228,9 +229,11 @@ Project Link: [https://github.com/paterbytes/gui-python](https://github.com/pate
  
 [01.Qt-window.py]:https://github.com/paterbytes/gui-python/blob/main/01.Window/01.Qt-window.py
 [02.Qt-window.py]:https://github.com/paterbytes/gui-python/blob/main/01.Window/02.Qt-window.py
-  
+[03.Qt-window.py]:https://github.com/paterbytes/gui-python/blob/main/01.Window/03.Qt-window.py
+
 [01.Tk-window.py]:https://github.com/paterbytes/gui-python/blob/main/01.Window/01.Tk-window.py
 [02.Tk-window.py]:https://github.com/paterbytes/gui-python/blob/main/01.Window/02.Tk-window.py
-
+[03.Tk-window.py]:https://github.com/paterbytes/gui-python/blob/main/01.Window/03.Tk-window.py
   
 [binding]:(https://en.wikipedia.org/wiki/Language_binding)
+[conventional commits]:https://www.conventionalcommits.org/es/v1.0.0-beta.3/
