@@ -154,8 +154,7 @@ pip install PyQt6 PyQt6-WebEngine Eel
   - [02.Qt-window.py] - Adding status bar and name
   - [03.Qt-window.py] - Adding resize and icon
   - **04.Qt-window<span>.py** - Adding navigation bar  
-  - **03.Qt-window<span>.py** - Adding resizing and icon
-  - **04.Qt-window<span>.py** - Adding navigation bar
+  - **05.Qt-window<span>.py** - Adding navigation bar    
   - [01.Tk-window.py] - Create a simple Tkinter window
   - [02.Tk-window.py] - Adding status bar and name
   - [03.Tk-window.py] - Adding resize and icon
