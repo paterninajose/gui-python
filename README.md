@@ -21,8 +21,6 @@
     <br/>
     Executable file rendering html local files and browsing the web.
     <br />
-    <br />
-    <a href="https://github.com/paterbytes/gui-python/issues">Report Bug 🐞</a>
   </p>
 </div>
 
